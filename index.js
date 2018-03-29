@@ -20,3 +20,4 @@ function currentLine(name){
   }
   return `The line is currently: `+ numberLine.join(', ');
 }
+//nowServing(["andrew", "sullivan"])
